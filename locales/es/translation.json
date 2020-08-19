@@ -1,0 +1,135 @@
+{
+  "nav-header": {
+    "contact": "Ponte en contácto"
+  },
+  "slides": {
+    "slide1": {
+      "title": "La Costa Caribe",
+      "text1": "Hay arena negra y arena blanca, hay playas emocionantes para surfear y playas tranquilas para bucear.", 
+      "text2": "Hay lugares cómodos tanto para mochileros como para viajeros que prefieren algo más lujoso."
+    },
+    "slide2": {
+      "title": "Puerto Viejo",
+      "text1": "Si está buscando una visión real de la vida cotidiana y la cultura de Costa Rica, es difícil encontrar un mejor ejemplo que Puerto Limón. ", 
+      "text2": "Esta es una ciudad muy importante porque es el puerto más importante del país.", 
+      "det1": "7-8 horas", 
+      "det2": "Comida y Bebida", 
+      "det3": "Transporte", 
+      "det4": "2 adultos"
+    },
+    "slide3": {
+      "title": "Refugio Nacional Gandoca-Manzanillo",
+      "text1": "El Refugio de Vida Silvestre Gandoca Manzanillo está ubicado en una de las regiones más hermosas de Costa Rica.", 
+      "text2": "Ubicado a pocos kilómetros al norte de la frontera con Panamá en Talamanca, este refugio protege la flora y fauna más amenazada de la región.",
+      "det1": "7-8 horas", 
+      "det2": "Comida y Bebida", 
+      "det3": "Transporte", 
+      "det4": "2 adultos"
+    },
+    "btn": "Aprender más"
+  }, 
+  "s-holder": {
+    "title": "Personaliza tu viaje", 
+    "nameLbl": "Nombre Completo",
+    "namePlaceholder": "Nombre / Apellido", 
+    "emailLbl": "Correo eléctronico:", 
+    "locationLbl": "Lugar: ", 
+    "selectReason": "Motivo de viaje:", 
+    "budgetLbl": "Presupuesto:", 
+    "btn": "Enviar"  
+  }, 
+  "traverReason": {
+    "reason1": "Vacacionar solo",
+    "reason2": "Vacaiones en familia",
+    "reason3": "Negocios",
+    "reason4": "Luna de miel",
+    "reason5": "Otros"  
+  }, 
+  "fh5co-features": {
+    "ftr1": {
+      "title": "Bicicleta de plátano",
+      "description": "Ten un buen viaje."
+    },
+    "ftr2": {
+      "title": "Refugio de Vida Silvestre",
+      "description": "El área de anidación de varias especies de tortugas marinas, manatíes, cocodrilos, caimanes, delfines y más."
+    },
+    "ftr3": {
+      "title": "Parque Nacional",
+      "description": "Rica biodiversidad, ecoturismo y sus parques nacionales."
+    },
+    "ftr4": {
+      "title": "Surf",
+      "description": "Esta provincia es conocida por sus impresionantes playas."
+    },
+    "ftr5": {
+      "title": "Reserva forestal",
+      "description": "Bosques tropicales vírgenes y frondosos con gran variedad de vegetación y arroyos con abundantes cascadas te esperan."
+    }, 
+    "ftr6":{
+      "title": "Cocina caribeña", 
+      "description": "Una provincia con una gran riqueza cultural culinaria."
+    }
+  },
+  "tourAct": {
+    "header": {
+      "title": "Actividades Turísticas", 
+      "text": "Un lugar ideal para que los viajeros visiten y aprendan sobre una gran variedad de culturas que viven en un solo lugar."
+    },
+    "act1": {
+      "imgFooter": "Viaje de su vida", 
+      "title": "Parque Nacional Cahuita", 
+      "price": "$20", 
+      "text": "Fue creado en 1970 como Monumento Nacional para preservar los arrecifes de coral de la costa caribeña."
+     },
+    "act2": {
+      "imgFooter": "No hay lugar como el hogar. Excepto por la playa.", 
+      "title": "Playa Chiquita", 
+      "price": "$20", 
+      "text": "Excelente para iniciar excursiones a pueblos cercanos y áreas naturales, brindándole un lugar tranquilo al que regresar después de un día de aventura."
+    },
+    "act3": {
+      "imgFooter": "El tiempo que se pasa entre los árboles nunca es una pérdida de tiempo.", 
+      "title": "Refugio de Vida Silvestre Gandoca-Manzanillo", 
+      "price": "$20", 
+      "text": "Este refugio está clasificado como bosque lluvioso tropical y también cuida los únicos criaderos de ostras de manglares naturales que se encuentran a lo largo de los arrecifes."
+    }, 
+    "act4": {
+      "imgFooter": "Al descubrir la naturaleza, te descubres a ti mismo.", 
+      "title": "Parque de la Amistad Internacional", 
+      "price": "$20", 
+      "text": "Los viajeros que quieran experimentar el ecoturismo mientras están de vacaciones en Costa Rica definitivamente deben hacer un esfuerzo para visitar el parque, ya que cubre casi 500,000 hectáreas del país."
+    },
+    "act5": {
+      "imgFooter": "Montar una ola", 
+      "title": "Puerto Viejo", 
+      "price": "$20", 
+      "text": "Aquí, en medio de la exótica flora y fauna, encontrarás una vibrante ciudad costera con hermosas playas, aguas cristalinas y el surf más sorprendente y mundialmente conocido."
+    }, 
+    "act6": {
+      "imgFooter": "Viajar expande la mente", 
+      "title": "Manzanillo", 
+      "price": "$20", 
+      "text": "El principal atractivo de esta pequeña ciudad es su fabulosa costa de arena blanca que está rodeada de palmeras y sus ramas se bañan en las tranquilas y suaves aguas del Mar Caribe."
+    }            
+  },
+  "fh5co-testimonial": {
+    "title": "Clientes Felices", 
+    "tst1": "Me enamoré de Limón y con muchas ganas de volver, espero volver pronto para ver todo lo que necesitábamos", 
+    "tst2": "Very little time to enjoy such a beautiful place, I hope to return soon.", 
+    "tst3": "Debo decir que fue una de las experiencias más cheveres, es una provincia muy hermosa."
+  }, 
+  "fh5co-contact": {
+    "title": "Preguntale a uno de nuestros agentes, estamos 24/7 para ayudarte", 
+    "description": "Viví una experiencia única en el Caribe, Limón, Costa Rica", 
+    "nameLbl": "Nombre", 
+    "emailLbl": "Correo electrónico", 
+    "messageLbl": "Su mensaje", 
+    "btn": "Enviar"    
+  }, 
+  "pgFooter": {
+    "nwlttrLbl": "Boletín", 
+    "nwlttrDscr": "Suscribite a nuestro boletín informativo", 
+    "copyR": "Copyright 2020 Limón Vibes. Todos los derechos reservados."
+  }    
+}

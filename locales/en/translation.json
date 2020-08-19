@@ -1,0 +1,135 @@
+{
+  "nav-header": {
+    "contact": "Get in touch"
+  },
+  "slides": {
+    "slide1": {
+      "title": "The Caribbean Coast",
+      "text1": "One of the main attractions of the South Caribbean is that the different communities and beaches are so diverse.",
+      "text2": "There is black sand and white sand, there are exciting beaches for surfing and quiet beaches for snorkeling. There are comfortable places for both backpackers and travelers who prefer something more luxurious."
+    },
+    "slide2": {
+      "title": "Puerto Viejo",
+      "text1": "If you are looking for a real insight into the daily life and culture of Costa Rica, it is difficult to find a better example than Puerto Limón.",
+      "text2": "This is a very important city because it is the most important port in the country.",
+      "det1": "7-8 hours",
+      "det2": "Food and drinks",
+      "det3": "Transportation",
+      "det4": "2 adults"
+    },
+    "slide3": {
+      "title": "Gandoca-Manzanillo National Refuge",
+      "text1": "The Gandoca Manzanillo Wildlife Refuge is located in one of the most beautiful regions of Costa Rica.",
+      "text2": "Located a few kilometers north of the border with Panama in Talamanca, this refuge protects the most threatened flora and fauna in the region.",
+      "det1": "7-8 hours",
+      "det2": "Food and drinks",
+      "det3": "Transportation",
+      "det4": "2 adults"
+    },
+    "btn": "Learn More"
+  },
+  "s-holder": {
+    "title": "Customized your trip",
+    "nameLbl": "Full Name:",
+    "namePlaceholder": "First name / Last Name",
+    "emailLbl": "E-mail:",
+    "locationLbl": "Location: ", 
+    "selectReason": "Travel reason:",
+    "budgetLbl": "Budget:",
+    "btn": "Send"
+  },
+  "traverReason": {
+    "reason1": "Vacation alone",
+    "reason2": "Family vacation",
+    "reason3": "Business",
+    "reason4": "Honeymoon",
+    "reason5": "Other"
+  },
+  "fh5co-features": {
+    "ftr1": {
+      "title": "Banana Biking",
+      "description": "Have a good trip."
+    },
+    "ftr2": {
+      "title": "Wildlife Refuge",
+      "description": "The nesting area of ​​various species of sea turtles, manatees, crocodiles, alligators, dolphins and more."
+    },
+    "ftr3": {
+      "title": "National Park",
+      "description": "Rich biodiversity, ecotourism and its national parks."
+    },
+    "ftr4": {
+      "title": "Surfing",
+      "description": "This province is known for its stunning beaches."
+    },
+    "ftr5": {
+      "title": "Forest Reserve",
+      "description": "Virgin and lush tropical forests with a great variety of vegetation and streams with abundant waterfalls await you."
+    }, 
+    "ftr6":{
+      "title": "Caribbean Cuisine", 
+      "description": "A province with a great culinary cultural wealth."
+    }
+  },
+  "tourAct": {
+    "header": {
+      "title": "Tourist Activities", 
+      "text": "An ideal place for travelers to visit and learn about a huge variety of cultures living in one place."
+    },
+    "act1": {
+      "imgFooter": "Trip of a lifetime", 
+      "title": "Cahuita National Park", 
+      "price": "$20", 
+      "text": "It was created in 1970 as a National Monument to preserve the coral reefs off the Caribbean coast."
+    },
+    "act2": {
+      "imgFooter": "There's no place like home. Except for the beach.", 
+      "title": "Playa Chiquita", 
+      "price": "$20", 
+      "text": "Excellent for starting excursions to nearby towns and natural areas, providing you with a quiet place to return to after a day of adventure"
+    },
+    "act3": {
+      "imgFooter": "Time spent amongst trees is never time wasted.", 
+      "title": "Gandoca-Manzanillo Wildlife Refuge", 
+      "price": "$20", 
+      "text": "This refuge is classified as a tropical rainforest and also cares for the only natural mangrove oyster beds found along the reefs."
+    }, 
+    "act4": {
+      "imgFooter": "By discovering nature, you discover yourself.", 
+      "title": "International Friendship Park", 
+      "price": "$20", 
+      "text": "Travelers who want to experience eco-tourism while on vacation in Costa Rica should definitely make an effort to visit the park, as it covers nearly 500,000 hectares of the country."
+    },
+    "act5": {
+      "imgFooter": "Ride a wave", 
+      "title": "Puerto Viejo", 
+      "price": "$20", 
+      "text": "Here, amid the exotic flora and fauna, you will find a vibrant coastal city with beautiful beaches, crystal blue waters, and the most surprising and world-renowned surfing."
+    }, 
+    "act6": {
+      "imgFooter": "Travel broadens the mind", 
+      "title": "Manzanillo", 
+      "price": "$20", 
+      "text": "The main attraction of this small city is its fabulous white sand coastline that is surrounded by palm trees and their branches bathe in the calm and soft waters of the Caribbean Sea."
+    }                      
+  }, 
+  "fh5co-testimonial": {
+    "title": "Happy Clients", 
+    "tst1": "I fell in love with Limón and eager to return, I hope to return soon to see everything we needed.", 
+    "tst2": "Very little time to enjoy such a beautiful place, I hope to return soon.", 
+    "tst3": "Debo decir que fue una de las experiencias más cheveres, es una provincia muy hermosa."
+  },
+  "fh5co-contact": {
+    "title": "Ask an agent, We're here to help 24/7", 
+    "description": "Live a unique experience in the beautiful Caribbean Limón, Costa Rica.", 
+    "nameLbl": "Name", 
+    "emailLbl": "Email", 
+    "messageLbl": "Message", 
+    "btn": "Send"
+  }, 
+  "pgFooter": {
+    "nwlttrLbl": "Newsletter", 
+    "nwlttrDscr": "Subscribe for our newsletter", 
+    "copyR": "Copyright 2020 Limón Vibes. All Rights Reserved."
+  }
+}
