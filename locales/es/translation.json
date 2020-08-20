@@ -125,11 +125,16 @@
     "nameLbl": "Nombre", 
     "emailLbl": "Correo electrónico", 
     "messageLbl": "Su mensaje", 
-    "btn": "Enviar"    
+    "btn": "Enviar", 
+    "call": "Llamanos 1-866 2469136"    
   }, 
   "pgFooter": {
     "nwlttrLbl": "Boletín", 
     "nwlttrDscr": "Suscribite a nuestro boletín informativo", 
     "copyR": "Copyright 2020 Limón Vibes. Todos los derechos reservados."
+  }, 
+  "fh5co-about":{
+    "title": "Acerca de nosotros", 
+    "text": "Somos una empresa local de Limón, Enfocada en la creación de experiencias turisticas únicas e inolvidanles para descubrir las maravillas ocultas del caribe sur."
   }    
 }

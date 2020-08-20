@@ -20,7 +20,8 @@ i18next
            $('.tourAct').localize();  
            $('.fh5co-testimonial').localize();  
            $('.fh5co-contact').localize();     
-           $('.pgFooter').localize();                                 
+           $('.pgFooter').localize();     
+           $('.fh5co-about').localize();                                                      
         });
       });
   });
