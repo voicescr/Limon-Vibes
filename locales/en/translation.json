@@ -125,11 +125,16 @@
     "nameLbl": "Name", 
     "emailLbl": "Email", 
     "messageLbl": "Message", 
-    "btn": "Send"
+    "btn": "Send", 
+    "call": "Call us 1-866 2469136"
   }, 
   "pgFooter": {
     "nwlttrLbl": "Newsletter", 
     "nwlttrDscr": "Subscribe for our newsletter", 
     "copyR": "Copyright 2020 Limón Vibes. All Rights Reserved."
+  }, 
+  "fh5co-about":{
+    "title": "About Us", 
+    "text": "We are a local company from Limón, focused on creating unique and unforgettable tourist experiences to discover the hidden wonders of the South Caribbean."
   }
 }
