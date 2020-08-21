@@ -84,9 +84,9 @@
      },
     "act2": {
       "imgFooter": "No hay lugar como el hogar. Excepto por la playa.", 
-      "title": "Playa Chiquita", 
+      "title": "Punta Uva", 
       "price": "$20", 
-      "text": "Excelente para iniciar excursiones a pueblos cercanos y áreas naturales, brindándole un lugar tranquilo al que regresar después de un día de aventura."
+      "text": "Es conocida por su arrecife que da protección a la playa así que Punta Uva tiene poco oleaje y arena blanca."
     },
     "act3": {
       "imgFooter": "El tiempo que se pasa entre los árboles nunca es una pérdida de tiempo.", 
@@ -96,9 +96,9 @@
     }, 
     "act4": {
       "imgFooter": "Al descubrir la naturaleza, te descubres a ti mismo.", 
-      "title": "Parque de la Amistad Internacional", 
+      "title": "Catarata Bribri y Volio", 
       "price": "$20", 
-      "text": "Los viajeros que quieran experimentar el ecoturismo mientras están de vacaciones en Costa Rica definitivamente deben hacer un esfuerzo para visitar el parque, ya que cubre casi 500,000 hectáreas del país."
+      "text": "Dentro de la selva tropical de BriBri puede encontrar las cascadas Volio con cascadas de agua que se derraman en piscinas naturales."
     },
     "act5": {
       "imgFooter": "Montar una ola", 
@@ -135,6 +135,6 @@
   }, 
   "fh5co-about":{
     "title": "Acerca de nosotros", 
-    "text": "Somos una empresa local de Limón, Enfocada en la creación de experiencias turisticas únicas e inolvidanles para descubrir las maravillas ocultas del caribe sur."
+    "text": "Somos una empresa local de Limón, enfocada en crear experiencias turísticas únicas e inolvidables para descubrir las maravillas escondidas de la parte sur del Caribe."
   }    
 }

@@ -125,6 +125,8 @@ body {
 		overflow: hidden;
 	}
 }
+
+
 a {
 	color: $brand-primary;
 	@include transition(.5s, ease);
@@ -1169,7 +1171,7 @@ div.cs-select{
 		}
 		.icon {
 			i {
-				color: lighten($brand-black, 85%)!important;
+				color: lighten(#44C662, 1)!important;
 			}
 		}
 
@@ -1800,5 +1802,6 @@ div.cs-select{
 	z-index: 9999;
 	background: url(../images/hourglass.svg) center no-repeat #222222;
 }
+
 
 

@@ -84,9 +84,9 @@
     },
     "act2": {
       "imgFooter": "There's no place like home. Except for the beach.", 
-      "title": "Playa Chiquita", 
+      "title": "Punta Uva", 
       "price": "$20", 
-      "text": "Excellent for starting excursions to nearby towns and natural areas, providing you with a quiet place to return to after a day of adventure"
+      "text": "It is known for its reef that protects the beach, so Punta Uva has little waves and white sand."
     },
     "act3": {
       "imgFooter": "Time spent amongst trees is never time wasted.", 
@@ -96,9 +96,9 @@
     }, 
     "act4": {
       "imgFooter": "By discovering nature, you discover yourself.", 
-      "title": "International Friendship Park", 
+      "title": "Bribri and Volio waterfall", 
       "price": "$20", 
-      "text": "Travelers who want to experience eco-tourism while on vacation in Costa Rica should definitely make an effort to visit the park, as it covers nearly 500,000 hectares of the country."
+      "text": "Within the BriBri rainforest you can find the Volio waterfalls with waterfalls that spill into natural pools."
     },
     "act5": {
       "imgFooter": "Ride a wave", 
@@ -135,6 +135,6 @@
   }, 
   "fh5co-about":{
     "title": "About Us", 
-    "text": "We are a local company from Limón, focused on creating unique and unforgettable tourist experiences to discover the hidden wonders of the South Caribbean."
+    "text": "We are a local company from Limón, focused on creating unique and unforgettable tourist experiences to discover the hidden wonders of the south part of the Caribbean. "
   }
 }
