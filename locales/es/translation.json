@@ -135,6 +135,7 @@
   }, 
   "fh5co-about":{
     "title": "Acerca de nosotros", 
-    "text": "Somos una empresa local de Limón, enfocada en crear experiencias turísticas únicas e inolvidables para descubrir las maravillas escondidas de la parte sur del Caribe."
+    "text": "Somos una empresa local de Limón, enfocada en crear experiencias turísticas únicas e inolvidables para descubrir las maravillas escondidas de la parte sur del Caribe.",
+    "btn": "Contáctanos"
   }    
 }

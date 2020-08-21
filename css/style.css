@@ -24,7 +24,15 @@ body {
 body.fh5co-offcanvas {
   overflow: hidden;
 }
-
+.nav-image{
+  width: 10vw;
+}
+.lng-item {
+  margin: 5px;
+}
+.lng-item a{
+  padding: 0px !important;
+}
 a {
   color: #44C662;
   -webkit-transition: 0.5s, ease;
@@ -311,7 +319,7 @@ figure {
 
 .sf-menu a {
   color: rgba(0, 0, 0, 0.5);
-  padding: 0.75em 1em !important;
+  /*padding: 0.75em 1em !important;*/
   font-weight: normal;
   border-left: none;
   border-top: none;
@@ -1714,6 +1722,9 @@ div.cs-select span {
   .row-top-padded-md {
     padding-top: 2em;
   }
+  .nav-image {
+    width: 25vw;
+  }
 }
 
 .row-bottom-padded-sm {
@@ -1734,6 +1745,11 @@ div.cs-select span {
   }
 }
 
+@media screen and (max-width: 478px){
+  .nav-image {
+    width: 25vw;
+  }
+}
 .border-bottom {
   border-bottom: 1px solid rgba(0, 0, 0, 0.06);
 }
