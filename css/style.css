@@ -50,7 +50,9 @@ p, ul, ol {
   color: #848484;
   font-family: "Open Sans", Arial, sans-serif;
 }
-
+.abouImage img{
+  width: 50vw !important;
+}
 h1, h2, h3, h4, h5, h6 {
   color: #5a5a5a;
   font-family: "Open Sans", Arial, sans-serif;
@@ -111,6 +113,9 @@ figure {
 @media screen and (max-width: 768px) {
   .header-top .fh5co-link {
     text-align: center;
+  }
+  .abouImage img {
+    width: 90vw !important;
   }
 }
 .header-top .fh5co-social a {
@@ -472,7 +477,6 @@ figure {
 #fh5co-primary-menu > li > .sf-with-ul:after {
   border: none !important;
   font-family: "icomoon";
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -496,7 +500,6 @@ figure {
 #fh5co-primary-menu > li > ul li > .sf-with-ul:after {
   border: none !important;
   font-family: "icomoon";
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -754,10 +757,14 @@ div.cs-select span {
 #fh5co-features,
 #fh5co-popular-properties,
 #fh5co-properties,
-#fh5co-testimonial,
 #fh5co-about,
 #fh5co-contact,
 .fh5co-content-section {
+  clear: both;
+  padding: 7em 0;
+}
+
+#fh5co-aboutus{
   clear: both;
   padding: 7em 0;
 }
@@ -766,12 +773,15 @@ div.cs-select span {
 #fh5co-features,
 #fh5co-popular-properties,
 #fh5co-properties,
-#fh5co-testimonial,
 #fh5co-about,
 #fh5co-contact,
 .fh5co-content-section {
     padding: 4em 0;
   }
+  #fh5co-aboutus{
+  clear: both;
+  padding: 0em 0 !important;
+}
 }
 
 .fh5co-section-gray {
@@ -782,6 +792,26 @@ div.cs-select span {
   padding-bottom: 1em;
   margin-bottom: 4em;
 }
+.heading-section-about {
+    padding-bottom: 1em;
+    margin-bottom: 4em;
+    margin-top: 4em;
+    padding-top: 1em;
+}
+@media screen and (max-width: 768px) {
+  .heading-section-about {
+      padding-bottom: 1em;
+      margin-bottom: 0em;
+      margin-top: 0em;
+      padding-top: 1em;
+  }
+}
+.heading-section-about h3 {
+  font-size: 40px;
+  font-weight: 400;
+  position: relative;
+  color: #44C662;
+}
 .heading-section h3 {
   font-size: 40px;
   font-weight: 400;
@@ -789,6 +819,9 @@ div.cs-select span {
   color: #44C662;
 }
 .heading-section p {
+  font-size: 20px;
+}
+.heading-section-about p {
   font-size: 20px;
 }
 
@@ -1158,6 +1191,9 @@ div.cs-select span {
   #fh5co-features .feature-left .feature-copy {
     width: 80%;
   }
+  .abouImage img {
+    width: 90vw !important;
+  }
 }
 #fh5co-features .feature-left h3 {
   font-size: 16px;
@@ -1171,6 +1207,16 @@ div.cs-select span {
 }
 
 #fh5co-contact {
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+#fh5co-aboutus {
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
   -moz-flex-wrap: wrap;
@@ -1233,14 +1279,24 @@ div.cs-select span {
 .half-contact, .half-bg {
   width: 50%;
 }
-
+.half-aboutus, .half-bg {
+  width: 50%;
+}
 .half-contact {
+  padding: 7em;
+}
+
+.half-aboutus {
   padding: 7em;
 }
 @media screen and (max-width: 768px) {
   .half-contact {
     width: 100%;
     padding: 5em 0;
+  }
+  .half-aboutus {
+    width: 100%;
+    
   }
 }
 
