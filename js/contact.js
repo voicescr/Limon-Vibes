@@ -27,9 +27,34 @@ $(document).ready(function () {
       .catch((error) => console.error(error));
   };
 
-  const form = document.querySelector("#contactForm2");
+  const form1 = document.querySelector("#contactForm1");
 
-  const formEvent = form.addEventListener("submit", (event) => {
+  const formEvent1 = form1.addEventListener("submit", (event) => {
+    event.preventDefault();
+    document.getElementById("btnSubmit").disabled = true;
+    $('input[type="submit"]').prop('disabled', true);
+
+    const email = document.querySelector("#emailfrm1").value;
+    const name = document.querySelector("#namefrm1").value;
+
+    var tr = document.getElementById("travelReason");  
+    const travelReason = tr.options[tr.selectedIndex].value;
+    
+    var loc = document.getElementById("location");  
+    const location = loc.options[loc.selectedIndex].value;
+
+    var bud = document.getElementById("budget");  
+    const budget = bud.options[bud.selectedIndex].value;
+
+    const contact = { name, email, travelReason, location, budget};
+
+    sendMail(contact);
+  });
+
+
+  const form2 = document.querySelector("#contactForm2");
+
+  const formEvent = form2.addEventListener("submit", (event) => {
     event.preventDefault();
     document.getElementById("btnSubmit2").disabled = true;
     $('input[type="submit"]').prop('disabled', true);

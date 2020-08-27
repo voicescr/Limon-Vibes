@@ -45,17 +45,18 @@
             $mail->IsSMTP();
             $mail->SMTPDebug = 2;
             $mail->CharSet="UTF-8";
-            $mail->Host = "smtp.gmail.com";  // smpt server 
+            $mail->Host = "srv05.infranetdns.com";  // smpt server 
             $mail->SMTPAuth = true; 
-            $mail->SMTPSecure = 'tls';    
-            $mail->Username = "lesstalkmorelistening@gmail.com"; // change this 
-            $mail->Password = "Voices2020."; // change this
+            $mail->SMTPSecure = 'SSL';    
+            $mail->Username = "info@limonvibes.com"; // change this 
+            $mail->Password = "omz(Ei{SIe4_"; // change this
             $mail->Port = 587;  
 
             // Email header 
-            $mail->From = "contacto@gmail.com"; // Desde donde enviamos (Para mostrar)
+            $mail->From = "info@limonvibes.com"; // Desde donde enviamos (Para mostrar)
             $mail->FromName = "Limon Vibes"; 
-            $mail->AddAddress("limonvibes506@gmail.com"); // correo al cual queremos que lleguen los submit del sitio
+            //$mail->AddAddress("limonvibes506@gmail.com"); // correo al cual queremos que lleguen los submit del sitio
+            $mail->AddAddress("rafa.sequeira93@gmail.com"); // correo al cual queremos que lleguen los submit del sitio
 
             // Email Body 
             $mail->IsHTML(true); // El correo se envía como HTML
@@ -102,17 +103,18 @@
             $mail->IsSMTP();
             $mail->SMTPDebug = 2;
             $mail->CharSet="UTF-8";
-            $mail->Host = "smtp.gmail.com";  // smpt server 
+            $mail->Host = "srv05.infranetdns.com";  // smpt server 
             $mail->SMTPAuth = true; 
-            $mail->SMTPSecure = 'tls';    
-            $mail->Username = "lesstalkmorelistening@gmail.com"; // change this 
-            $mail->Password = "Voices2020."; // change this
+            $mail->SMTPSecure = 'SSL';    
+            $mail->Username = "info@limonvibes.com"; // change this 
+            $mail->Password = "omz(Ei{SIe4_"; // change this
             $mail->Port = 587;  
 
             // Email header 
-            $mail->From = "contacto@gmail.com"; // Desde donde enviamos (Para mostrar)
+            $mail->From = "info@limonvibes.com"; // Desde donde enviamos (Para mostrar)
             $mail->FromName = "Limon Vibes"; 
-            $mail->AddAddress("limonvibes506@gmail.com"); // correo al cual queremos que lleguen los submit del sitio
+            //$mail->AddAddress("limonvibes506@gmail.com"); // correo al cual queremos que lleguen los submit del sitio
+            $mail->AddAddress("rafa.sequeira93@gmail.com"); // correo al cual queremos que lleguen los submit del sitio
 
             // Email Body 
             $mail->IsHTML(true); // El correo se envía como HTML

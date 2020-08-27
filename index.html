@@ -162,21 +162,21 @@
 								<div class="col-xxs-12 col-xs-12">
 									<div class="input-field">
 										<label for="from" data-i18n="s-holder.nameLbl"></label>
-										<input required id="name" type="text" class="form-control"
+										<input required id="namefrm1" type="text" class="form-control"
 											data-i18n="[placeholder]s-holder.namePlaceholder; [title]s-holder.namePlaceholder" />
 									</div>
 								</div>
 								<div class="col-xxs-12 col-xs-12">
 									<div class="input-field">
 										<label for="from" data-i18n="s-holder.emailLbl"></label>
-										<input required id="email" type="text" class="form-control"
+										<input required id="emailfrm1" type="text" class="form-control"
 											placeholder="example@mail.com" />
 									</div>
 								</div>
 								<div class="col-xxs-12 col-xs-12">
-									<section class="travelReason" id="travelReason">
+									<section class="travelReason" >
 										<label for="class" data-i18n="s-holder.selectReason"></label>
-										<select class="cs-select cs-skin-border">
+										<select class="cs-select cs-skin-border" id="travelReason">
 											<option value="" disabled selected>Any</option>
 											<option value="Vacation alone">Vacation alone</option>
 											<option value="Family vacation">Family vacation</option>
@@ -485,19 +485,19 @@
 										<div class="col-md-12">
 											<div class="form-group">
 												<input required type="text" id="contactName" class="form-control"
-													data-i18n="[placeholder]fh5co-contact.nameLbl">
+													data-i18n="[placeholder]fh5co-contact.nameLbl" maxlength="50">
 											</div>
 										</div>
 										<div class="col-md-12">
 											<div class="form-group">
 												<input required type="text" id="contactEmail" class="form-control"
-													data-i18n="[placeholder]fh5co-contact.emailLbl">
+													data-i18n="[placeholder]fh5co-contact.emailLbl" maxlength="50">
 											</div>
 										</div>
 										<div class="col-md-12">
 											<div class="form-group">
 												<textarea required name="Message" class="form-control" id="message"
-													cols="30" rows="7"
+													cols="30" rows="7" maxlength="250"
 													data-i18n="[placeholder]fh5co-contact.messageLbl"></textarea>
 											</div>
 										</div>
